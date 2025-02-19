@@ -11,7 +11,7 @@ This guide will take you through the entire **tissue culture process**, from the
 
 ## **📖 Table of Contents**
 ### **🔹 Introduction**
-- 📌 **[[Introduction to Tissue Culture]]**
+- 📌 **[Introduction to Tissue Culture](introduction-to-tissue-culture.md)**
 - 📌 **[[Choosing an Explant]]**
 - 📌 **[[Sterilizing Explants]]**
 
@@ -49,4 +49,4 @@ This guide will take you through the entire **tissue culture process**, from the
 ---
 
 ### **🔗 Quick Navigation**
-⬅ **Home** | ⬆ **Top** | ➡ **[[Introduction to Tissue Culture]]**
+ ➡ **[Introduction to Tissue Culture](introduction-to-tissue-culture.md)**

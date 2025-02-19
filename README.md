@@ -59,7 +59,7 @@ This repository includes markdown files covering topics such as:
 4. Use the **[troubleshooting](pages/troubleshooting-common-tissue-culture-problems.md)** section to asses your approach.
 
 ---
-## Obsidian
+## Obsidian (Files Coming Soon)
 I use Obsidian to organize my plant-related notes, including this tissue culture resource. I’ve included all the notes I believe could be useful. However, some pages may reference linked PDFs or other external files that are not included in this export due to potential copyright concerns.
 
 I apologize for any confusion caused by missing files. If you encounter issues with incomplete information, please open an issue, and I will either remove or adjust the affected page accordingly.

@@ -48,7 +48,7 @@ Tissue culture operates on **cell totipotency**, meaning every plant cell has th
 
 ## **4️⃣ Types of Tissue Culture**
 | **Method** | **Description** | **Best For** |
-|---|---|---|
+|------------|---------------|------------|
 | **Callus Culture** | Growing undifferentiated plant cells | Genetic studies, somatic embryogenesis |
 | **Shoot Culture** | Growing plant shoots from meristems | Clonal propagation |
 | **Root Culture** | Growing plant roots in vitro | Root development studies |

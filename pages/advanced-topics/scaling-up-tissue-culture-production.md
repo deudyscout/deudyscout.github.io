@@ -110,9 +110,9 @@ By implementing **automation, contamination control, and cost-effective practice
 ---
 
 ## **Next Steps**
-Now that you've mastered large-scale production, explore some other options with tissue culture such as [[Tissue Culture in Sustainable Agriculture]]
+Now that you've mastered large-scale production, explore some other options with tissue culture such as **[Tissue Culture in Sustainable Agriculture](/pages/advanced-topics/tissue-culture-in-sustainable-agriculture.md)**
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Troubleshooting Common Tissue Culture Problems]]**
+- ⬅️ **[Advanced Tissue Culture Techniques](/pages/advanced-topics/advanced-tissue-culture-techniques.md)**

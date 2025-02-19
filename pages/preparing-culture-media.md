@@ -98,10 +98,10 @@ _PGRs control plant development by promoting or inhibiting specific growth proce
 ---
 
 ## **Next Steps**
-Once media is ready, proceed to **[[Placing the Explant in Culture Media]]**.
+Once you've selected your explant, proceed to **[Sterilizing Explants](/pages/sterilizing-explants.md)** to prepare it for culture.
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Sterilizing an Explant]]**
-- ➡️ **[[Placing the Explant in Culture Media]]**
+- ⬅️ **[Choosing an Explant](/pages/choosing-an-explant.md)**
+- ➡️ **[Sterilizing Explants](/pages/sterilizing-explants.md)**

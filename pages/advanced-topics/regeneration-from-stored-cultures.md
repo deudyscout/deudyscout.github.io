@@ -85,9 +85,10 @@ Once cultures start regenerating:
 ## **Regeneration Complete! 🎉**
 Your stored plant material is now successfully revived and ready for further cultivation.
 
-Explore **[[Germplasm Banking and Conservation Strategies]]** for large-scale preservation.
+Explore **[Germplasm Banking and Conservation Strategies](/pages/advanced-topics/germplasm-banking-and-conservation-strategies.md)** for large-scale preservation.
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Advanced Tissue Culture Techniques]]**
+- ⬅️ **[Advanced Tissue Culture Techniques](/pages/advanced-topics/advanced-tissue-culture-techniques.md)**
+- ⬅️ **[Long-Term Storage and Preservation](/pages/advanced-topics/long-term-storage-and-preservation.md)**

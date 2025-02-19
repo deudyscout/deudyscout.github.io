@@ -33,10 +33,10 @@ Consider the following factors when selecting an explant:
 4. **Place in sterile water** → Prevent desiccation before sterilization.
 
 ## **Next Steps**
-Once you've selected your explant, proceed to **[[Sterilizing Explants]]** to prepare it for culture.
+Once sterilized, move to **[Preparing Culture Media](/pages/placing-the-explant-in-culture-media.md)**
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Introduction to Tissue Culture]]**
-- ➡️ **[[Sterilizing Explants]]**
+- ⬅️ **[Introduction to Tissue Culture](/pages/introduction-to-tissue-culture.md)**
+- ➡️ **[Preparing Culture Media](/pages/placing-the-explant-in-culture-media.md)**

@@ -39,10 +39,10 @@ Common disinfectants used in tissue culture:
 ✔ Work **quickly but carefully** to keep tissues from drying out.  
 
 ## **Next Steps**
-Once sterilized, move to **[[Placing the Explant in Culture Media]]** under sterile conditions.
+Once media is proccessed, move to **[Placing the Explant in Culture Media](/pages/placing-the-explant-in-culture-media.md)** under sterile conditions.
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Choosing an Explant]]**
-- ➡️ **[[Placing the Explant in Culture Media]]**
+- ⬅️ **[Preparing Culture Media](/pages/placing-the-explant-in-culture-media.md)**
+- ➡️ **[Placing the Explant in Culture Media](/pages/placing-the-explant-in-culture-media.md)**

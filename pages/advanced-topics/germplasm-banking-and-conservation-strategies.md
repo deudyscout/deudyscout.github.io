@@ -106,9 +106,9 @@ _Keeping plant species viable in their ecosystems._
 ---
 
 ## **Next Steps**
-Now that you've explored germplasm conservation, dive into [[Regeneration from Stored Cultures]]
+Now that you've explored germplasm conservation, dive into **[Regeneration from Stored Cultures](/pages/advanced-topics/regeneration-from-stored-cultures.md)**
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Advanced Tissue Culture Techniques]]**
+- ⬅️ **[Long-Term Storage and Preservation](/pages/advanced-topics/long-term-storage-and-preservation.md)**

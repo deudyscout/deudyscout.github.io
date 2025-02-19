@@ -65,12 +65,14 @@ The transition medium should provide **good drainage and aeration** while retain
 ---
 
 ## **Tissue Culture Process Complete! 🎉**
-You've now successfully propagated plants using tissue culture.
+Hopefully now you have successfully propagated plants using tissue culture.
 
-Would you like to explore **[[Troubleshooting Common Tissue Culture Problems]]**?
+Want to check out advanced topics? Head back to the [Home Page](/index.md) and scroll down to _Advanced Tissue Culture Techniques_ or _Conservation and Ethical Considerations_
+
+Having Issues? Try **[Troubleshooting Common Tissue Culture Problems](/pages/troubleshooting-common-tissue-culture-problems.md)**
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Rooting and Acclimatization]]**
-- ➡️ **[[Troubleshooting Common Tissue Culture Problems]]**
+- ⬅️ **[Rooting and Acclimatization](/pages/rooting-and-acclimatization.md)**
+- ➡️ **[Troubleshooting Common Tissue Culture Problems](/pages/troubleshooting-common-tissue-culture-problems.md)**

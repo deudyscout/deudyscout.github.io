@@ -58,10 +58,10 @@ Correct placement:
 ---
 
 ## **Next Steps**
-Once the explant establishes growth, proceed to **[[Multiplication and Subculturing]]** to encourage further development.
+Once the explant establishes growth, proceed to **[Multiplication and Subculturing](/pages/multiplication-and-subculturing.md)** to encourage further development.
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Preparing Culture Media]]**
-- ➡️ **[[Multiplication and Subculturing]]**
+- ⬅️ **[Sterlizing Explants](/pages/sterilizing-explants.md)**
+- ➡️ **[Multiplication and Subculturing](/pages/multiplication-and-subculturing.md)**

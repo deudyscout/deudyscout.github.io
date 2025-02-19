@@ -105,4 +105,4 @@ _By improving plant health at the start, farmers rely less on synthetic fertiliz
 
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Advanced Tissue Culture Techniques]]**
+- ⬅️ **[Advanced Tissue Culture Techniques](/pages/advanced-topics/advanced-tissue-culture-techniques.md)**

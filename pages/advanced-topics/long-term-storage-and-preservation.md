@@ -90,10 +90,10 @@ _For conservation of plant genetic information without live cultures._
 ---
 
 ## **Next Steps**
-Now that you know how to preserve plant cultures, explore [[Germplasm Banking and Conservation Strategies]] or **[[Regeneration from Stored Cultures]]** to successfully revive long-term stored specimens.
+Now that you know how to preserve plant cultures, explore **[Germplasm Banking and Conservation Strategies](/pages/advanced-topics/germplasm-banking-and-conservation-strategies.md)** or **[Regeneration from Stored Cultures](/pages/advanced-topics/regeneration-from-stored-cultures.md)** to successfully revive long-term stored specimens.
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Advanced Tissue Culture Techniques]]**
+- ⬅️ **[Advanced Tissue Culture Techniques](/pages/advanced-topics/advanced-tissue-culture-techniques.md)**
 

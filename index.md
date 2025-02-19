@@ -52,28 +52,6 @@ This repository includes markdown files covering topics such as:
 
 ---
 
-## **🛠 How to Use This Guide**
-1. Download the **Markdown files** and open them in **Obsidian, Notion, or any Markdown editor**. (Obsidian info below)
-2. Navigate through the pages using **internal links** between topics.
-3. Follow **step-by-step protocols** for practical tissue culture applications.
-4. Use the **[troubleshooting](pages/troubleshooting-common-tissue-culture-problems.md)** section to asses your approach.
-
----
-## Obsidian
-I use Obsidian to organize my plant-related notes, including this tissue culture resource. I’ve included all the notes I believe could be useful. However, some pages may reference linked PDFs or other external files that are not included in this export due to potential copyright concerns.
-
-I apologize for any confusion caused by missing files. If you encounter issues with incomplete information, please open an issue, and I will either remove or adjust the affected page accordingly.
-
-Additionally, if you find any personal information within the notes, I kindly ask that you open an issue so I can address it.
-
-### Below are the community plugins I have installed:
-1. Advanced Tables by Tony Grosinger
-2. MAKE.md by MAKE.md
-3. Highlightr by Chetachi Ezikeuzor
-4. Smart Connections by Brian Petro (This is usefulf for asking AI questions about your notes)
-
----
-
 ## **📜 License**
 This guide is provided for **educational purposes**. You are free to use and modify it.
 

@@ -55,6 +55,7 @@ This repository includes markdown files covering topics such as:
 
 ## **🛠 How to Use This Guide**
 1. Download the **Markdown files** and open them in **Obsidian, Notion, or any Markdown editor**.
+    "(I have included my full Obsidian files as well which use the plugins listed at the bottome of page)"
 2. Navigate through the pages using **internal links** between topics.
 3. Follow **step-by-step protocols** for practical tissue culture applications.
 4. Use the **troubleshooting and advanced techniques** sections to refine your approach.

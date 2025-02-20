@@ -38,5 +38,5 @@ Once sterilized, move to **[Preparing Culture Media](/pages/placing-the-explant-
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[Introduction to Tissue Culture](/pages/introduction-to-tissue-culture.md)**
-- ➡️ **[Preparing Culture Media](/pages/placing-the-explant-in-culture-media.md)**
+- ⬅️ **[Introduction to Tissue Culture](/pages/introduction-to-tissue-culture.html)**
+- ➡️ **[Preparing Culture Media](/pages/placing-the-explant-in-culture-media.html)**

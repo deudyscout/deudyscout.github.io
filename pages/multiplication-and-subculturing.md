@@ -65,10 +65,10 @@ Subculturing is needed when:
 ---
 
 ## **Next Steps**
-Once plants have multiplied successfully, move to **[Rooting and Acclimatization](/pages/rooting-and-acclimatization.md)** to prepare them for soil transition.
+Once plants have multiplied successfully, move to **[Rooting and Acclimatization](/pages/rooting-and-acclimatization.html)** to prepare them for soil transition.
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[Placing the Explant in Culture Media](/pages/placing-the-explant-in-culture-media.md)**
-- ➡️ **[Rooting and Acclimatization](/pages/rooting-and-acclimatization.md)**
+- ⬅️ **[Placing the Explant in Culture Media](/pages/placing-the-explant-in-culture-media.html)**
+- ➡️ **[Rooting and Acclimatization](/pages/rooting-and-acclimatization.html)**

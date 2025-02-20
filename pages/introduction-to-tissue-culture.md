@@ -87,10 +87,10 @@ Tissue culture operates on **cell totipotency**, meaning every plant cell has th
 ---
 
 ## **Next Steps**
-Now that you understand the basics, continue to **[Choosing an Explant](/pages/choosing-an-explant.md)** to start your tissue culture journey!
+Now that you understand the basics, continue to **[Choosing an Explant](/pages/choosing-an-explant.html)** to start your tissue culture journey!
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[Tissue Culture Homepage Index](/index.md)**
-- ➡️ **[Choosing an Explant](/pages/choosing-an-explant.md)**
+- ⬅️ **[Tissue Culture Homepage Index](/index.html)**
+- ➡️ **[Choosing an Explant](/pages/choosing-an-explant.html)**

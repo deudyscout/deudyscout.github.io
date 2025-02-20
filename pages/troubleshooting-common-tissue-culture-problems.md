@@ -104,10 +104,10 @@ _Plantlets fail to adapt to soil conditions._
 ---
 
 ## **Next Steps**
-Now that you've mastered troubleshooting, explore **[Advanced Tissue Culture Techniques](/pages/advanced-topics/advanced-tissue-culture-techniques.md)** for commercial or large-scale applications!
+Now that you've mastered troubleshooting, explore **[Advanced Tissue Culture Techniques](/pages/advanced-topics/advanced-tissue-culture-techniques.html)** for commercial or large-scale applications!
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[Final Transfer to Soil](/pages/final-transfer-to-soil.md)**
-- ➡️ **[Advanced Tissue Culture Techniques](/pages/advanced-topics/advanced-tissue-culture-techniques.md)**
+- ⬅️ **[Final Transfer to Soil](/pages/final-transfer-to-soil.html)**
+- ➡️ **[Advanced Tissue Culture Techniques](/pages/advanced-topics/advanced-tissue-culture-techniques.html)**

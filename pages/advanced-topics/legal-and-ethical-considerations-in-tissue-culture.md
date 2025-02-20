@@ -100,10 +100,10 @@ _Tissue culture plays a key role in genetic modification, raising ethical questi
 ---
 
 ## **Next Steps**
-Explore **[[Tissue Culture in Sustainable Agriculture]]** to see how these legal and ethical considerations impact food security and environmental sustainability.
+Explore **[Tissue Culture in Sustainable Agriculture](/pages/advanced-topics/tissue-culture-in-sustainable-agriculture.html)** to see how these legal and ethical considerations impact food security and environmental sustainability.
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[[Advanced Tissue Culture Techniques]]**
+- ⬅️ **[Advanced Tissue Culture Techniques](/pages/advanced-topics/advanced-tissue-culture-techniques.html)**
 

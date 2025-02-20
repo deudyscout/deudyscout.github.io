@@ -98,10 +98,10 @@ _PGRs control plant development by promoting or inhibiting specific growth proce
 ---
 
 ## **Next Steps**
-Once you've selected your explant, proceed to **[Sterilizing Explants](/pages/sterilizing-explants.md)** to prepare it for culture.
+Once you've selected your explant, proceed to **[Sterilizing Explants](/pages/sterilizing-explants.html)** to prepare it for culture.
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[Choosing an Explant](/pages/choosing-an-explant.md)**
-- ➡️ **[Sterilizing Explants](/pages/sterilizing-explants.md)**
+- ⬅️ **[Choosing an Explant](/pages/choosing-an-explant.html)**
+- ➡️ **[Sterilizing Explants](/pages/sterilizing-explants.html)**

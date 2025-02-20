@@ -96,15 +96,15 @@ _Using tissue culture to produce valuable plant compounds (alkaloids, flavonoids
 
 ## **Next Steps**
 Explore additional advanced tissue culture topics:
-**[Long-Term Storage and Preservation](/pages/advanced-topics/long-term-storage-and-preservation.md))**
-**[Germplasm Banking and Conservation Strategies](/pages/advanced-topics/germplasm-banking-and-conservation-strategies.md)**
-**[Legal and Ethical Considerations in Tissue Culture](/pages/advanced-topics/legal-and-ethical-considerations-in-tissue-culture.md)**
-**[Tissue Culture in Sustainable Agriculture](/pages/advanced-topics/tissue-culture-in-sustainable-agriculture.md)**
-**[Regeneration from Stored Cultures](/pages/advanced-topics/regeneration-from-stored-cultures.md)**
+**[Long-Term Storage and Preservation](/pages/advanced-topics/long-term-storage-and-preservation.html))**
+**[Germplasm Banking and Conservation Strategies](/pages/advanced-topics/germplasm-banking-and-conservation-strategies.html)**
+**[Legal and Ethical Considerations in Tissue Culture](/pages/advanced-topics/legal-and-ethical-considerations-in-tissue-culture.html)**
+**[Tissue Culture in Sustainable Agriculture](/pages/advanced-topics/tissue-culture-in-sustainable-agriculture.html)**
+**[Regeneration from Stored Cultures](/pages/advanced-topics/regeneration-from-stored-cultures.html)**
 
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[Troubleshooting Common Tissue Culture Problems](/pages/troubleshooting-common-tissue-culture-problems.md)**
+- ⬅️ **[Troubleshooting Common Tissue Culture Problems](/pages/troubleshooting-common-tissue-culture-problems.html)**
 

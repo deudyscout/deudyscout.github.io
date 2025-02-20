@@ -69,10 +69,10 @@ Hopefully now you have successfully propagated plants using tissue culture.
 
 Want to check out advanced topics? Head back to the [Home Page](/index.md) and scroll down to _Advanced Tissue Culture Techniques_ or _Conservation and Ethical Considerations_
 
-Having Issues? Try **[Troubleshooting Common Tissue Culture Problems](/pages/troubleshooting-common-tissue-culture-problems.md)**
+Having Issues? Try **[Troubleshooting Common Tissue Culture Problems](/pages/troubleshooting-common-tissue-culture-problems.html)**
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[Rooting and Acclimatization](/pages/rooting-and-acclimatization.md)**
-- ➡️ **[Troubleshooting Common Tissue Culture Problems](/pages/troubleshooting-common-tissue-culture-problems.md)**
+- ⬅️ **[Rooting and Acclimatization](/pages/rooting-and-acclimatization.html)**
+- ➡️ **[Troubleshooting Common Tissue Culture Problems](/pages/troubleshooting-common-tissue-culture-problems.html)**

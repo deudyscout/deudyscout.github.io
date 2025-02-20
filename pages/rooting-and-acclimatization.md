@@ -62,10 +62,10 @@ Once rooted, plantlets need to **adjust to external conditions**.
 ---
 
 ## **Next Steps**
-After acclimatization, plants are ready for **[Final Transfer to Soil](/pages/final-transfer-to-soil.md)**, completing the tissue culture process.
+After acclimatization, plants are ready for **[Final Transfer to Soil](/pages/final-transfer-to-soil.html)**, completing the tissue culture process.
 
 ---
 
 ### 🔗 **Navigation**
-- ⬅️ **[Multiplication and Subculturing](/pages/multiplication-and-subculturing.md)**
-- ➡️ **[Final Transfer to Soil](/pages/final-transfer-to-soil.md)**
+- ⬅️ **[Multiplication and Subculturing](/pages/multiplication-and-subculturing.html)**
+- ➡️ **[Final Transfer to Soil](/pages/final-transfer-to-soil.html)**

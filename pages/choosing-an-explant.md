@@ -33,7 +33,7 @@ Consider the following factors when selecting an explant:
 4. **Place in sterile water** → Prevent desiccation before sterilization.
 
 ## **Next Steps**
-Once sterilized, move to **[Preparing Culture Media](/pages/placing-the-explant-in-culture-media.md)**
+Once sterilized, move to **[Preparing Culture Media](/pages/placing-the-explant-in-culture-media.html)**
 
 ---
 
